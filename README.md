@@ -1,2 +1,2 @@
-# git-recent-brances
-Tiny node.js cli tool to switch between recent git branches
+# git recent branches 
+Tiny interactive cli tool to easily switch between recent git branches.
