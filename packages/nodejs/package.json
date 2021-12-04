@@ -1,0 +1,15 @@
+{
+  "name": "recent-branches-nodejs",
+  "version": "0.1.0",
+  "description": "Tiny interactive node.js cli to switch between recent git branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["interactive", "cli", "git", "recent", "branch", "branches", "checkout", "switch"],
+  "author": "Eugene Chulkov <genechulkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "8.2.0"
+  }
+}
